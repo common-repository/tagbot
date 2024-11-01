@@ -1,0 +1,126 @@
+/* TagBot Plugin - Admin CSS */
+
+#kpe-settings {
+    background:  #fff;
+    border: 1px solid #eaeaea;
+    border-radius:  2px;
+	font-family: 'Open Sans', sans-serif;
+    margin: 60px 60px 0 40px;
+    padding: 40px;
+    text-align:  center;
+}
+#kpe-settings h3 {
+    border-bottom: 1px dashed #ddd;
+    font-size: 20px;
+    font-weight: 400;
+    margin: 0 0 20px;
+    padding: 0 0 20px;
+    text-align: left;
+}
+#kpe-settings h3 span {
+    color: #0085ba;
+    float: right;
+    font-size: 15px;
+}
+#kpe-settings h3 span a {
+	border-left: 1px solid #ddd;
+	color: #323232;
+	font-size: 16px;
+	margin: 0 0 0 15px;
+	padding: 0 0 0 15px;
+	transition: all .4s ease;
+}
+#kpe-settings h3 span a:hover {
+	color: #0073aa;
+	transition: all .4s ease;
+}
+#kpe-settings h2 {
+    color: #0073aa;
+    font-size: 18px;
+    font-weight: 400;
+    margin: 52px 0 15px;
+}
+#kpe-settings .indexing-btn {
+    margin: 50px 0 0;
+}
+#kpe-settings .indexing-btn input {
+    background: #0073aa;
+    border: 0;
+    border-radius: 50px;
+    box-shadow: none;
+    color: #fff;
+    font-size: 13px;
+    font-weight: 400;
+    height: auto;
+    padding: 8px 20px;
+    outline: none;
+    transition: all .4s ease;
+}
+#kpe-settings .indexing-btn input:hover {
+    background: #484848;
+    cursor: pointer;
+    transition: all .4s ease;
+}
+#kpe-settings .form-table th {
+    display: none;
+}
+#kpe-settings input[type="checkbox"] {
+	box-shadow: none;
+    margin: 0 10px 0 0;
+	outline: none;
+}
+#kpe-settings .kpe-field {
+    background:  #f1f1f1;
+    border:  1px dashed #e6e6e6;
+    display:  inline-block;
+    margin:  20px 0 0;
+    padding:  10px 20px;
+}
+#kpe-settings .submit {
+    margin: 40px 0 0;
+    padding: 0;
+    text-align:  center;
+}
+#kpe-settings .submit input {
+    background: #0073aa;
+    border: 0;
+	border-radius: 50px;
+    box-shadow: none;
+    color: #fff;
+    padding: 6px 20px;
+    height: auto;
+	text-shadow: none;
+    transition: all .4s ease;
+}
+#kpe-settings .submit input:hover {
+    background: #424242;
+    cursor: pointer;
+    transition: all .4s ease;
+}
+#kpe-options h3 {
+	font-size: 18px;
+	font-weight: 400px;
+	padding: 0 0 10px;
+}
+#kpe-options h3 .uk-close {
+	float: right;
+}
+#kpe-options form {
+	text-align: left;
+}
+#kpe-options form h2 {
+	border-bottom: 1px solid #e8e8e8;
+	font-size: 16px;
+	margin: 0;
+	padding: 0 0 10px;
+}
+#kpe-options .form-table th {
+	display: block;
+	font-weight: 400;
+}
+#kpe-options .submit {
+	border-top: 1px solid #e8e8e8;
+	margin: 20px 0 0;
+	padding: 15px 0 0;
+	text-align: left;
+}
